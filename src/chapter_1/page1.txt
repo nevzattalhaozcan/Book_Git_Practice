@@ -3,3 +3,4 @@ Git study
 adding some lines
 .
 .
+some text
